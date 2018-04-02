@@ -1,6 +1,7 @@
 # ZBLibrary-Android快速开发框架 
 
 [![GitHub release](https://img.shields.io/github/release/TommyLemon/Android-ZBLibrary.svg)](https://github.com/TommyLemon/Android-ZBLibrary/releases)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelicacylee%2FAndroid-ZBLibrary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelicacylee%2FAndroid-ZBLibrary?ref=badge_shield)
 [![](https://jitpack.io/v/TommyLemon/Android-ZBLibrary.svg)](https://jitpack.io/#TommyLemon/Android-ZBLibrary)
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels)
 [![Gradle Version](https://img.shields.io/badge/gradle-2.10%2B-green.svg)](https://docs.gradle.org/current/release-notes)
@@ -158,3 +159,7 @@ QQ技术交流群：595514898
 ## 我要赞赏
 如果你喜欢ZBLibrary，感觉ZBLibrary帮到了你，可以点右上角 ⭐Star 支持一下，谢谢 ^_^
 [https://github.com/TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelicacylee%2FAndroid-ZBLibrary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelicacylee%2FAndroid-ZBLibrary?ref=badge_large)
